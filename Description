@@ -1,0 +1,4 @@
+Download.java: Contains Download class which downloads a file from a URL.
+DownloadManager.java: Contains the main class for download manager application.
+DownloadsTableModel.java: Contains the class which manages the download table's data.
+ProgressRenderer.java: Contains the class which is responsible to render a JProgressBar in a table cell.
